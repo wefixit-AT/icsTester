@@ -2,7 +2,7 @@
 
 This tool pareses a ics file through net.fortuna.ical4j and print errors if parsing goes wrong.
 
-I wrote this tool to sanitize files before importing to a Zimbra [1](https://www.zimbra.com/) server which gives only the exception and in the logs are nothing helpful was logged.
+I wrote this tool to sanitize files before importing to a [Zimbra](https://www.zimbra.com/) server which gives only the exception and in the logs are nothing helpful was logged.
 
 ## Compile
 
